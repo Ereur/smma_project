@@ -1,0 +1,13 @@
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+.test {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.test:hover{
+    color: rgb(193, 210, 255);
+    box-shadow: 5px;
+}
